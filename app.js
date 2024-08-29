@@ -11,4 +11,8 @@ button.addEventListener('mouseenter', () => {
   button.style.top = `${newY}px`;
 });
 
+function redirectPage(){
+  location.replace("https://youtu.be/dQw4w9WgXcQ?si=npdHuXbAFRMQdUJ0")
+}
+
 
